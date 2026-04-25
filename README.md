@@ -2,9 +2,10 @@
 Projetos Java para fins de aprendizado.
 
 ## Objetivos
-    - Criar projeto inicial e funcional.
-    - Adicionar Temporizador para marcar tempo do usuário.
-    - Adicionar um sistema de pontuação.
+    - Aprender java.
+    - Demonstrar meu desenvolvimento na linguagem
+    criando projetos para pratica.
+    - Criar um portifolio de JAVA.
 
-## URL do Projeto
-https://roadmap.sh/projects/number-guessing-game
+## URL dos Projetos
+https://roadmap.sh
