@@ -6,5 +6,5 @@ Projetos Java para fins de aprendizado.
     - Adicionar Temporizador para marcar tempo do usuário.
     - Adicionar um sistema de pontuação.
 
-## URL dos Projetos
-https://roadmap.sh
+## URL do Projeto 
+https://roadmap.sh/projects/number-guessing-game
