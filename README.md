@@ -9,3 +9,4 @@ Projetos Java para fins de aprendizado.
 
 ## URL dos Projetos
 https://roadmap.sh
+    - projeto 1 Guessing Game: https://roadmap.sh/projects/number-guessing-game
